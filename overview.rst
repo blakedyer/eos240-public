@@ -8,17 +8,4 @@ EOS240: Geochemistry
 
    Outline/outline.rst
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Lectures
-   :glob:
-
-   Lectures/*
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Labs
-   :glob:
-
-   Labs/*
-   
+`lecture 1 <../_static/lecture1.html>`_
