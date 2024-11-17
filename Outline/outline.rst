@@ -1,6 +1,8 @@
 Outline
 ====================
 
+:download:`Course Outline (pdf) <Outline.pdf>`
+
 Course Description
 ------------------------ 
 .. include:: text/course_description.tex
