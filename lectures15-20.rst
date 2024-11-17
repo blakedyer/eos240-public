@@ -9,7 +9,8 @@ Lectures 15-20: the Atmosphere and Ocean
     
 
 Links for full screen web viewing
-------------------------------
+------------------------------------------
+Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 
 `Lectures 15-20: the Atmosphere and Ocean <../_static/Lecture15.slides.html>`_
 

@@ -9,7 +9,8 @@ Lectures 11-14: Radioactive decay
     
 
 Links for full screen web viewing
-------------------------------
+------------------------------------------
+Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 
 `Lectures 11-14: Radioactive decay <../_static/Lecture11.slides.html>`_
 

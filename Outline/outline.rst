@@ -3,6 +3,7 @@ Outline
 
 :download:`Course Outline (pdf) <Outline.pdf>`
 
+
 Course Description
 ------------------------ 
 .. include:: text/course_description.tex
@@ -11,9 +12,8 @@ Learning Outcomes
 ------------------------------
 Below is a list of some specific knowledge and skills you can expect to gain through this course. This term you will:
 
-.. csv-table:: 
-   :file: tables/learning_outcomes.csv
-   :widths: 100
+.. raw:: html
+   :file: html/learning_outcomes.html
 
 
 .. Course Materials
@@ -37,6 +37,7 @@ Below is a list of some specific knowledge and skills you can expect to gain thr
 Weekly Calendar
 ------------------------  
 
-.. csv-filter:: 
-   :file: tables/schedule.csv
-   :included_cols: 0,1,2,3,5,6
+.. raw:: html
+   :file: html/calendar.html
+
+

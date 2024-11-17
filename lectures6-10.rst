@@ -9,7 +9,8 @@ Lectures 6-10: Trace element geochemistry
     
 
 Links for full screen web viewing
-------------------------------
+------------------------------------------
+Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 
 `Lectures 6-10: Trace element geochemistry <../_static/Lecture6.slides.html>`_
 

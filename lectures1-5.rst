@@ -9,7 +9,8 @@ Lectures 1-5: The chemical composition of Earth
     
 
 Links for full screen web viewing
-------------------------------
+------------------------------------------
+Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 
 `Lectures 1-5: The chemical composition of Earth <../_static/Lecture1.slides.html>`_
 

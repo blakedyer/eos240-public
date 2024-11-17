@@ -9,7 +9,8 @@ Lectures 21-23: CO2 in seawater
     
 
 Links for full screen web viewing
-------------------------------
+------------------------------------------
+Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 
 `Lectures 21-23: CO2 in seawater <../_static/Lecture21.slides.html>`_
 
