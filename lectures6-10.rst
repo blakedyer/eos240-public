@@ -1,9 +1,6 @@
 Lectures 6-10: Trace element geochemistry
 =====================================================
 
-Lecture slides
-------------------------------
-
 .. raw:: html
 
    <div style="text-align: center;">
@@ -11,7 +8,7 @@ Lecture slides
    </div>
     
 
-Links full screen web viewing
+Links for full screen web viewing
 ------------------------------
 
 `Lectures 6-10: Trace element geochemistry <../_static/Lecture6.slides.html>`_

@@ -1,9 +1,6 @@
 Lectures 11-14: Radioactive decay
 =====================================================
 
-Lecture slides
-------------------------------
-
 .. raw:: html
 
    <div style="text-align: center;">
@@ -11,7 +8,7 @@ Lecture slides
    </div>
     
 
-Links full screen web viewing
+Links for full screen web viewing
 ------------------------------
 
 `Lectures 11-14: Radioactive decay <../_static/Lecture11.slides.html>`_

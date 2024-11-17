@@ -1,9 +1,6 @@
 Lectures 1-5: The chemical composition of Earth
 =====================================================
 
-Lecture slides
-------------------------------
-
 .. raw:: html
 
    <div style="text-align: center;">
@@ -11,7 +8,7 @@ Lecture slides
    </div>
     
 
-Links full screen web viewing
+Links for full screen web viewing
 ------------------------------
 
 `Lectures 1-5: The chemical composition of Earth <../_static/Lecture1.slides.html>`_

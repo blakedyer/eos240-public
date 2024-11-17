@@ -1,9 +1,6 @@
 Lectures 21-23: CO2 in seawater
 =====================================================
 
-Lecture slides
-------------------------------
-
 .. raw:: html
 
    <div style="text-align: center;">
@@ -11,7 +8,7 @@ Lecture slides
    </div>
     
 
-Links full screen web viewing
+Links for full screen web viewing
 ------------------------------
 
 `Lectures 21-23: CO2 in seawater <../_static/Lecture21.slides.html>`_

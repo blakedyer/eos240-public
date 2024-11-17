@@ -1,9 +1,6 @@
 Lectures 15-20: the Atmosphere and Ocean
 =====================================================
 
-Lecture slides
-------------------------------
-
 .. raw:: html
 
    <div style="text-align: center;">
@@ -11,7 +8,7 @@ Lecture slides
    </div>
     
 
-Links full screen web viewing
+Links for full screen web viewing
 ------------------------------
 
 `Lectures 15-20: the Atmosphere and Ocean <../_static/Lecture15.slides.html>`_
