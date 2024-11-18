@@ -1,5 +1,13 @@
 Lab 1: Partial Melting of Olivine
 ------------------------------------------------ 
+
+Download PDF
+*********************
+:download:`Lab 1: Partial Melting of Olivine <Lab_1.pdf>`
+
+Introduction
+*****************************
 .. include:: introduction.rst
 
-:download:`Lab 1 <problem_set_1.pdf>`
+
+

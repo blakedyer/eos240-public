@@ -4,6 +4,6 @@ Lab assignments
 .. toctree::
    :glob:
 
-   Labs/*/*
+   Labs/*/lab
 
     
