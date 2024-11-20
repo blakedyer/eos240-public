@@ -1,16 +1,14 @@
 Lectures 14-20: the Atmosphere and Oceans
 =====================================================   
 
-Links for full screen web viewing
+Link for full screen web viewing
 ------------------------------------------
 Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 
 `Lectures 14-20: the Atmosphere and Oceans <../_static/Lecture15.slides.html>`_
 
 
-Links for PDF/printing
+PDF download
 ------------------------
 
-To generate a PDF, click the link then go to print-->save as PDF in your browser.
-
-`Lectures 14-20: the Atmosphere and Oceans <../_static/Lecture15.slides.html?print-pdf>`_
+:download:`Lectures 14-20: the Atmosphere and Oceans <Lectures/pdf_slides/Lecture15.pdf>`
