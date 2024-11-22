@@ -15,4 +15,4 @@ EOS 240: Geochemistry
    labs
 
 .. |date| date:: %b %d, %Y
-.. |time| date:: %H:%M
+.. |time| date:: %I:%M %p %Z

@@ -45,4 +45,4 @@ Weekly Calendar
    :file: html/calendar.html
 
 .. |date| date:: %b %d, %Y
-.. |time| date:: %H:%M
+.. |time| date:: %I:%M %p %Z

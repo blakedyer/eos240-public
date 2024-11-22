@@ -5,6 +5,8 @@ Lecture slides
 
    This webpage was last updated on |date| at |time|.
 
+Lecture slides will be added here throughout the term.
+
 .. .. toctree::
 ..    :maxdepth: 1
 
@@ -15,4 +17,4 @@ Lecture slides
 ..    Lecture21.rst
    
 .. |date| date:: %b %d, %Y
-.. |time| date:: %H:%M
+.. |time| date:: %I:%M %p %Z
