@@ -1,9 +1,9 @@
 Lab assignments
 ==========================
 
-.. admonition:: Course currently active
-
-   This webpage was last updated on |date| at |time|.
+.. tip:: 
+   
+   This page is on the development branch
 
 .. toctree::
    :glob:
