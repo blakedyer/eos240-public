@@ -11,6 +11,7 @@ Lecture slides will be added here throughout the term.
    :maxdepth: 1
 
    Lecture01.rst
+   Lecture02.rst
 ..    Lecture06.rst
 ..    Lecture11.rst
 ..    Lecture15.rst
