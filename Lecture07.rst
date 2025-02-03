@@ -15,7 +15,7 @@ Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 PDF download
 ------------------------
 
-:download:`Batch and fractional crystallization <Lectures/pdf_slides/Lecture07.pdf>`
+:download:`Lecture 6: Batch and fractional crystallization <Lectures/pdf_slides/Lecture07.pdf>`
 
 .. |date| date:: %b %d, %Y
 .. |time| date:: %I:%M %p %Z
