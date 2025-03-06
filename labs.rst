@@ -15,6 +15,7 @@ Lab assignments will be added here throughout the term.
    Labs/Lab 3/lab
    Labs/Lab 4/lab
    Labs/Lab 5/lab
+   Labs/Lab 6/lab
 
     
 .. |date| date:: %b %d, %Y
