@@ -15,7 +15,7 @@ Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 PDF download
 ------------------------
 
-:download:`Lecture 16: Past Climate <Lectures/pdf_slides/Lecture16_2025.pdf>`
+:download:`Lecture 16: Stable isotopes <Lectures/pdf_slides/Lecture16_2025.pdf>`
 
 .. |date| date:: %b %d, %Y
 .. |time| date:: %I:%M %p %Z
