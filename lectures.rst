@@ -26,6 +26,7 @@ Lecture slides will be added here throughout the term.
    Lecture14.rst
    Lecture15.rst
    Lecture16.rst
+   Lecture17.rst
    
 .. |date| date:: %b %d, %Y
 .. |time| date:: %I:%M %p %Z
