@@ -1,9 +1,9 @@
 Lab 8: Cenozoic Climate
 ------------------------------------------------------------------------ 
 
-.. admonition:: Course currently active
+.. attention::
 
-   This webpage was last updated on |date| at |time|.
+   Course completed Spring 2025.
 
 Download PDF
 *********************

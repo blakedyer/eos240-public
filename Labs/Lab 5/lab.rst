@@ -1,9 +1,9 @@
 Lab 5: Sm-Nd Decay
 ------------------------------------------------------------------------ 
 
-.. admonition:: Course currently active
+.. attention::
 
-   This webpage was last updated on |date| at |time|.
+   Course completed Spring 2025.
 
 Download PDF
 *********************

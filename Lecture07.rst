@@ -1,9 +1,9 @@
 Lecture 7: Batch and fractional crystallization
 =====================================================   
 
-.. admonition:: Course currently active
+.. attention::
 
-   This webpage was last updated on |date| at |time|.
+   Course completed Spring 2025.
 
 Link for full screen web viewing
 ------------------------------------------

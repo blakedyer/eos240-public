@@ -1,9 +1,9 @@
 Lab 2: Major, minor, and trace elements in Earth’s mantle
 ------------------------------------------------ 
 
-.. admonition:: Course currently active
+.. attention::
 
-   This webpage was last updated on |date| at |time|.
+   Course completed Spring 2025.
 
 Download PDF
 *********************

@@ -1,9 +1,9 @@
 Lecture 10: Mid-term Review
 =========================================================================   
 
-.. admonition:: Course currently active
+.. attention::
 
-   This webpage was last updated on |date| at |time|.
+   Course completed Spring 2025.
 
 There were no slides for this review session. We went through questions from the class on the board.
 
