@@ -1,9 +1,7 @@
 EOS 240: Geochemistry
 ==========================
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: header.rst
 
 .. include:: Outline/text/course_description.tex
 

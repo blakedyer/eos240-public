@@ -1,9 +1,7 @@
 Lab 6: The long term carbon cycle
 ------------------------------------------------------------------------ 
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: ../../header.rst
 
 Download PDF
 *********************

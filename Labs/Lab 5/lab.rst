@@ -1,9 +1,7 @@
 Lab 5: Sm-Nd Decay
 ------------------------------------------------------------------------ 
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: ../../header.rst
 
 Download PDF
 *********************

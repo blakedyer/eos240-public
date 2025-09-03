@@ -1,9 +1,7 @@
 Lecture 8: Fractional Crystallization and Bulk Partition Coefficients
 =========================================================================   
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: header.rst
 
 Link for full screen web viewing
 ------------------------------------------

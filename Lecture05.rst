@@ -1,9 +1,7 @@
 Lecture 5: Making the Earth
 =====================================================   
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: header.rst
 
 Link for full screen web viewing
 ------------------------------------------

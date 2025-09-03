@@ -1,9 +1,7 @@
 Lab 3: Trace element partitioning during crystallization
 ------------------------------------------------------------------------ 
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: ../../header.rst
 
 Download PDF
 *********************

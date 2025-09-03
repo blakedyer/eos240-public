@@ -1,9 +1,7 @@
 Lecture 14: The Long Term Carbon Cycle
 =========================================================================   
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: header.rst
 
 Link for full screen web viewing
 ------------------------------------------

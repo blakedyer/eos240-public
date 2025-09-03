@@ -1,9 +1,7 @@
 Lab 8: Cenozoic Climate
 ------------------------------------------------------------------------ 
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: ../../header.rst
 
 Download PDF
 *********************

@@ -1,9 +1,7 @@
 Lab 4: Chemical differentiation of Earth
 ------------------------------------------------------------------------ 
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: ../../header.rst
 
 Download PDF
 *********************

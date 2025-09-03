@@ -1,9 +1,7 @@
 Lab 1: Partial Melting of Olivine
 ------------------------------------------------ 
 
-.. attention::
-
-   Course completed Spring 2025.
+.. include:: ../../header.rst
 
 Download PDF
 *********************
