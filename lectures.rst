@@ -5,11 +5,14 @@ Lecture slides
 
 Lecture slides will be added here throughout the term.
 
-..
-   .. toctree::
-      :maxdepth: 1
+.. toctree::
+   :maxdepth: 1
 
-      Lecture01.rst
+   Lecture01.rst
+   
+     
+     
+..     
       Lecture02.rst
       Lecture03.rst
       Lecture04.rst
