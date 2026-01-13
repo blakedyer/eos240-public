@@ -5,11 +5,12 @@ Lab assignments
 
 Lab assignments will be added here throughout the term.
 
-..
-   .. toctree::
-      :glob:
+.. toctree::
+   :glob:
 
-      Labs/Lab 1/lab
+   Labs/Lab 1/lab
+
+..
       Labs/Lab 2/lab
       Labs/Lab 3/lab
       Labs/Lab 4/lab
