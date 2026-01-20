@@ -9,6 +9,7 @@ Lab assignments will be added here throughout the term.
    :glob:
 
    Labs/Lab 1/lab
+   Labs/Lab 2/lab
 
 ..
       Labs/Lab 2/lab
