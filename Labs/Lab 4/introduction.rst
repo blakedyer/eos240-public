@@ -1,27 +1,12 @@
-In this lab, you will use a two stage melting model to extract the
-continental and oceanic crust from the primitive mantle of Earth. This
-greatly simplified model of *differentiation* is able to reproduce the
-elemental abundances of crustal rocks and offers quantitative
-constraints about the history of melt extraction from the mantle.
+In this lab, you will use a two-stage melting model to extract the continental and oceanic crust from Earth's primitive mantle.
 
-This simplified history begins with the primitive mantle (often referred
-to as the *bulk silicate earth*). This geochemical reservoir represents
-the mantle of Earth (after core formation) before the crust was
-extracted. In other words, the primitive mantle would be the result of
-could mix the entire crust back into the present day mantle. You will
-differentiate Earth in two discrete stages of melt extraction:
+The model begins with the *primitive mantle* (Lab 2): a geochemical estimate of the mantle composition immediately after core formation, before any crust was extracted. Equivalently, it is the composition you would obtain by mixing the entire crust back into the present-day mantle. You will model Earth's differentiation in two discrete stages of melt extraction:
 
--  Stage 1: A partial melt of the *primitive mantle* is extracted to
-   form the continental crust, leaving behind a mantle that is depleted
-   in highly incompatible elements.
+-  Stage 1: A partial melt of the *primitive mantle* is extracted to form the continental crust, leaving behind a mantle depleted in highly incompatible elements.
 
--  Stage 2: A partial melt of the left behind *depleted mantle* is
-   extracted to form the oceanic crust.
+-  Stage 2: A partial melt of the resulting *depleted mantle* is extracted to form the oceanic crust.
 
-You will use **Fractional melting** equations to complete these stages
-of differentiation, and you will directly compare your modeled melts to
-the average composition of continental crust and mid-ocean ridge basalt
-(oceanic crust).
+You will use **fractional melting** equations to model each stage, and you will compare your modeled melts to the average composition of continental crust and mid-ocean ridge basalt (oceanic crust).
 
 The **partition coefficient**, :math:`D`, describes the ratio of
 concentrations for an element between a mineral and a melt at
