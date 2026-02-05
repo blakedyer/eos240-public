@@ -16,6 +16,7 @@ Lecture slides will be added here throughout the term.
    Lecture06.rst
    Lecture07.rst
    Lecture08.rst
+   Lecture09.rst
      
 ..        
       Lecture04.rst
