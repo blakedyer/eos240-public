@@ -15,6 +15,7 @@ Lab assignments will be added here throughout the term.
    Labs/Lab 5/lab
    Labs/Lab 6/lab
    Labs/Lab 7/lab
+   Labs/Lab 8/lab
 
 ..
       Labs/Lab 2/lab
