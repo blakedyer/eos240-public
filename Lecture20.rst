@@ -1,4 +1,4 @@
-Lecture 20: Carbonate saturation
+Lecture 20: Alkalinity
 =========================================================================   
 
 .. include:: header.rst
@@ -7,13 +7,13 @@ Link for full screen web viewing
 ------------------------------------------
 Spacebar to advance, shift+spacebar to go backwards, escape for overview.
 
-`Lecture 20: Carbonate saturation <../_static/Lecture20_saturation.slides.html>`_
+`Lecture 20: Alkalinity <../_static/Lecture20_alksat.slides.html>`_
 
 
 PDF download
 ------------------------
 
-:download:`Lecture 20: Carbonate saturation <Lectures/pdf_slides/Lecture20_saturation.pdf>`
+:download:`Lecture 20: Alkalinity <Lectures/pdf_slides/Lecture20_alksat.pdf>`
 
 .. |date| date:: %b %d, %Y
 .. |time| date:: %I:%M %p %Z
