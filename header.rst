@@ -1,5 +1,5 @@
-.. admonition:: Course is live
-   
-   .. raw:: html
+.. attention::
 
-      <p class="course-live-updated"><span id="lastModified"></span></p>
+   Course last offered Spring 2026.
+
+
