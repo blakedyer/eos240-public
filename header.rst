@@ -1,5 +1,5 @@
-.. attention::
+.. admonition:: Course status
+   :class: course-status-note
 
-   Course last offered Spring 2026.
-
+   Archived course materials from Spring 2026.
 
